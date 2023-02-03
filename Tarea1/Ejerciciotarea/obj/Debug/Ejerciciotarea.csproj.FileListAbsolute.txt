@@ -1,0 +1,11 @@
+C:\Users\velas\OneDrive\Escritorio\I PAC UNAH\Lenguaje III\Primer Parcial\Tarea-1\Tarea1\Ejerciciotarea\bin\Debug\Ejerciciotarea.exe.config
+C:\Users\velas\OneDrive\Escritorio\I PAC UNAH\Lenguaje III\Primer Parcial\Tarea-1\Tarea1\Ejerciciotarea\bin\Debug\Ejerciciotarea.exe
+C:\Users\velas\OneDrive\Escritorio\I PAC UNAH\Lenguaje III\Primer Parcial\Tarea-1\Tarea1\Ejerciciotarea\bin\Debug\Ejerciciotarea.pdb
+C:\Users\velas\OneDrive\Escritorio\I PAC UNAH\Lenguaje III\Primer Parcial\Tarea-1\Tarea1\Ejerciciotarea\obj\Debug\Ejerciciotarea.csproj.AssemblyReference.cache
+C:\Users\velas\OneDrive\Escritorio\I PAC UNAH\Lenguaje III\Primer Parcial\Tarea-1\Tarea1\Ejerciciotarea\obj\Debug\Ejerciciotarea.csproj.SuggestedBindingRedirects.cache
+C:\Users\velas\OneDrive\Escritorio\I PAC UNAH\Lenguaje III\Primer Parcial\Tarea-1\Tarea1\Ejerciciotarea\obj\Debug\Ejerciciotarea.Form1.resources
+C:\Users\velas\OneDrive\Escritorio\I PAC UNAH\Lenguaje III\Primer Parcial\Tarea-1\Tarea1\Ejerciciotarea\obj\Debug\Ejerciciotarea.Properties.Resources.resources
+C:\Users\velas\OneDrive\Escritorio\I PAC UNAH\Lenguaje III\Primer Parcial\Tarea-1\Tarea1\Ejerciciotarea\obj\Debug\Ejerciciotarea.csproj.GenerateResource.cache
+C:\Users\velas\OneDrive\Escritorio\I PAC UNAH\Lenguaje III\Primer Parcial\Tarea-1\Tarea1\Ejerciciotarea\obj\Debug\Ejerciciotarea.csproj.CoreCompileInputs.cache
+C:\Users\velas\OneDrive\Escritorio\I PAC UNAH\Lenguaje III\Primer Parcial\Tarea-1\Tarea1\Ejerciciotarea\obj\Debug\Ejerciciotarea.exe
+C:\Users\velas\OneDrive\Escritorio\I PAC UNAH\Lenguaje III\Primer Parcial\Tarea-1\Tarea1\Ejerciciotarea\obj\Debug\Ejerciciotarea.pdb
